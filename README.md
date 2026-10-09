@@ -26,12 +26,15 @@ A Python-based web research agent that searches the internet, opens relevant web
 
 ## Project Setup
 
-### 1. Open the project folder
+1. Clone the Repository
 
-```bash
-cd C:\Users\ADILAKSHMI\web-browsing-agent
-```
+Make sure Git is installed on your computer. Open Command Prompt (CMD) or PowerShell and run:
 
+git clone https://github.com/kumari2007/web-browsing-agent.git
+
+Move into the project folder:
+
+cd web-browsing-agent
 ### 2. Create a virtual environment
 
 ```bash
