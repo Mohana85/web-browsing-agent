@@ -30,7 +30,7 @@ A Python-based web research agent that searches the internet, opens relevant web
 ### 1.Clone the Repository
 Make sure Git is installed on your computer. Open Command Prompt (CMD) or PowerShell and run:
 ```bash
-git clone https://github.com/kumari2007/web-browsing-agent.git
+git clone https://github.com/Mohana85/web-browsing-agent
 ```
 Move into the project folder:
 ```bash
